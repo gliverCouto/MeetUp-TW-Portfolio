@@ -5,7 +5,7 @@ theme: gaia
 
 <!-- _class: lead invert-->
 
-![w:260](assets\twbr-logo.png)
+![w:260](assets/twbr-logo.png)
 
 # **Technical Writer Portfolio** <!--fit-->
 
@@ -13,7 +13,7 @@ theme: gaia
 
 ---
 
-![bg left:35%](assets\selfie.jpg)
+![bg left:35%](assets/selfie.jpg)
 
 # Bio
 
@@ -67,7 +67,7 @@ Roube como um artista!
   - GitHub Pages.
   - Netlify.
 
-![bg right:35%](assets\markdown.png)
+![bg right:35%](assets/markdown.png)
 
 ---
 
@@ -86,13 +86,13 @@ Roube como um artista!
 
 ---
 
-![bg center w:950](assets\ssg-host-flow.png)
+![bg center w:950](assets/ssg-host-flow.png)
 
 ---
 
 ## `Sites Estáticos` vs `Sites Dinâmicos`
 
-![bg-bottom w:1050](assets\sw-dw.png)
+![bg-bottom w:1050](assets/sw-dw.png)
 
 ---
 
@@ -131,7 +131,7 @@ Sugestões pagas:
 
 - [Netlify](https://github.com/stackrole/gatsby-starter-foundation#editing-content-and-adding-posts) .
 
-![bg-bottom w:1150](assets\netlify.JPG)
+![bg-bottom w:1150](assets/netlify.JPG)
 
 ---
 
@@ -145,7 +145,7 @@ Sugestões pagas:
 
 - **How to YouTube videos.**
 
-![bg-bottom w:750](assets\how-to-yt.JPG)
+![bg-bottom w:750](assets/how-to-yt.JPG)
 
 ---
 
@@ -158,7 +158,7 @@ Sugestões pagas:
 - **Suprir informações sensíveis.**
   - [Daryl White ](https://www.djw.fyi/portfolio/business-requirements/#table-of-contents)
 
-![bg right w:550](assets\facts.gif)
+![bg right w:550](assets/facts.gif)
 
 ---
 
@@ -169,15 +169,25 @@ Sugestões pagas:
     - Use ferramentas Open Source para as documentações conceituais/Guides:
       - [MKDocs](https://squidfunk.github.io/mkdocs-material/).
       - [Docusauros](https://docusaurus.io/).
-    - Use ferramentas Open Source para o API Reference:
+    - Use ferramentas Open Source para API Reference:
       - [Redocly](https://redocly.com/).
+
+---
+
+- **OpenAPI Specification (Swagger):**
+
+![bg-bottom w:1150](assets/api-gbank.JPG).
 
 ---
 
 # `Contato`: como me encontrar
 
-- **LinkedIn:** www.linkedin.com/in/gliver
+- [**LinkedIn**](www.linkedin.com/in/gliver)
 - https://glivercouto.github.io/
 - Telegram da comunidade.
 - Gostou do material?
   - Deixe uma recomendação no LinkedIn.
+
+</br>
+
+<center>Obrigado!</center>
